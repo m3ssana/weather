@@ -9,9 +9,9 @@ import (
 	"strings"
 
 	"github.com/genuinetools/pkg/cli"
-	"github.com/genuinetools/weather/forecast"
-	"github.com/genuinetools/weather/geocode"
-	"github.com/genuinetools/weather/version"
+	"github.com/m3ssana/weather/forecast"
+	"github.com/m3ssana/weather/geocode"
+	"github.com/m3ssana/weather/version"
 	"github.com/mitchellh/colorstring"
 )
 

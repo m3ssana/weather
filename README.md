@@ -29,7 +29,7 @@ For installation instructions from binaries please visit the [Releases Page](htt
 #### Via Go
 
 ```console
-$ go get github.com/genuinetools/weather
+$ go get github.com/m3ssana/weather
 ```
 
 #### Via Homebrew

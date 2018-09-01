@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/genuinetools/weather/forecast"
-	"github.com/genuinetools/weather/geocode"
+	"github.com/m3ssana/weather/forecast"
+	"github.com/m3ssana/weather/geocode"
 	"github.com/sirupsen/logrus"
 )
 
